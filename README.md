@@ -7,7 +7,7 @@ This script utilizes the [The Movie Database (TMDb) API](https://www.themoviedb.
 Before using this script, ensure you have Node.js installed on your machine.
 
 ## Usage
-Run the script with the title of the movie as a command-line argument.
+Run the script with the title of the movie as a command-line argument. (example: 'Toy Story', 'Inception')
 
 
 
